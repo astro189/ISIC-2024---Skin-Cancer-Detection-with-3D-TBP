@@ -24,7 +24,7 @@ Skin cancer is one of the most common and severe health conditions globally. Ear
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA) for better feature understanding
 - Machine learning model training and hyperparameter tuning
-- Performance evaluation with metrics like accuracy, F1-score, and AUC-ROC
+- Performance evaluation with Parital AUC Score 
 
 ---
 
